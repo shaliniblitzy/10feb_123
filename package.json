@@ -1,16 +1,22 @@
 {
-  "name": "blitzy3be1053c1",
+  "name": "express-tutorial-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "A minimal Express.js tutorial server with two endpoints: GET / returning 'Hello world' and GET /evening returning 'Good evening'.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shaliniblitzy/10feb_123.git"
   },
-  "keywords": [],
+  "keywords": [
+    "express",
+    "tutorial",
+    "nodejs",
+    "server"
+  ],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
